@@ -1,0 +1,11 @@
+# Dossiers à ignorer
+
+archives/
+sources_ok_import pbi/
+
+#Fichiers à ignorer
+*.docx
+*.doc
+
+# données d'accès le cas échéant
+.env
