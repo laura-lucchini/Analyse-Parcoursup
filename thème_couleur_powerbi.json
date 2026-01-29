@@ -1,0 +1,37 @@
+{
+    "name": "Modern Education Dashboard",
+    "dataColors": [
+        "#4F8EF7",
+        "#F28CB1",
+        "#F5C451"
+    ],
+    "background": "#F7F9FC",
+    "foreground": "#1F2933",
+    "tableAccent": "#4F8EF7",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#1F2933"
+                            }
+                        },
+                        "fontSize": 14
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#6B7280"
+                            }
+                        },
+                        "fontSize": 12
+                    }
+                ]
+            }
+        }
+    }
+}
